@@ -1,1 +1,10 @@
-# projects
+->This is java project worked using eclipse
+->simple console based
+->to understand how library management works
+->prerequisite eclipse photon IDE, mysql 8.0, tomcat 9.0,mysql connector 8.0
+->first launch eclipse, then copy the files shared to eclipse workspace.
+->launch the mysql server.
+->load tomcat 9.0 in your eclipse ide for this project
+->In DBConnection class change the username and password to your mysql username and password.
+->run the table class first, then run the tester class.
+--------------------------------Thank you--------------------------------------------------
