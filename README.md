@@ -1,1 +1,1 @@
-My college mini projects for any queries contact me.
+College assignment projects for any queries contact me.
